@@ -15,7 +15,7 @@ Create a Python program that determines the Chinese Zodiac sign based on a given
 ![alt text](<Screenshot 2026-08-20 201359.png>)
 
 ---
-### Pseudocode 
+### Code 
 ```python 
 import sys 
 
