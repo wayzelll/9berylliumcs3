@@ -1,10 +1,29 @@
+# Chinese Zodiac Sign Finder
+*Section:* Beryllium  
+*Name:* Yzel Alexa L. Alegre
+*Date:* Aug 20, 2026  
+
+---
+### Requirements
+Create a Python program that determines the Chinese Zodiac sign based on a given birth year (baseline year: 1900).
+* Input must not be earlier than 1900.
+* Abort/display an error message if the year is invalid.
+* Zodiac recurs every 12 years starting from 1900 (Rat).
+---
+### Documentations
+![alt text](<Screenshot 2026-08-20 201351-1.png>)
+![alt text](<Screenshot 2026-08-20 201359.png>)
+
+---
+### Pseudocode 
+```python 
 import sys 
 
 zodiac_signs = [
     "Rat (鼠 / Shǔ)",
     "Ox (牛 / Niú)",
     "Tiger (虎 / Hǔ)",
-    "Rabbit (兔 / Tù)",
+    "Rabbit (兔 / Tù)",    
     "Dragon (龙 / Lóng)",
     "Snake (蛇 / Shé)",
     "Horse (马 / Mǎ)",
@@ -32,3 +51,4 @@ try:
 except ValueError:
     print("Invalid input. Please enter a numeric year.")
     sys.exit()
+
