@@ -58,6 +58,7 @@ class PerishableProduct(Product):
   def calculate_discount() -> float:
     return self.price * 0.50  # 50% discount for quick sale
 ```
+---
 
 ## Reflection
 I conclude that, among the four pillars, encapsulation would be the most useful in improving the sari-sari store inventory system. Managing multiple variables can create confusion, such as negative results in the inventory. Encapsulation guarantees data integrity by grouping attributes to be controlled. 
