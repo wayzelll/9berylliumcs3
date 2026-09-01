@@ -17,7 +17,7 @@
 | Delete | Delete the playlist |
 
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram]<img width="1080" height="1920" alt="OPM favorites!" src="https://github.com/user-attachments/assets/513f8f1e-7468-4f56-a689-159bb6034f83" />
 ## Design Explanation
 ### Why did you choose this class?
       I chose this class because I am an OPM enthusiast.
