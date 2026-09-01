@@ -5,4 +5,4 @@ Yzel Alexa Alegre
 * Activity 1: [Computational Thinking Skills](./quarter1/ctskillsBerylliumALEGRE.md)
 * Activity 2: [Chinese Zodiac](./quarter1/zodiacBerylliumALEGRE.md)
 * Activity 3: [OOP Concept](./quarter1/ila_oop.md)
-* Activity 4: [OOP Act](
+* Activity 4: [OOP Act](./quarter1/classObjectUML.md)
