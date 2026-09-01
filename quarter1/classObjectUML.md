@@ -20,5 +20,8 @@
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
+      I chose this class because I am an OPM enthusiast.
 ### Which property is the most important? Why?
+      The most important is the Artist property because there are many OPM artists. Narrowing it down based on their name makes it easier to look for them.
 ### Which method is the most useful? Why?
+    The most useful method is the Search. It is easier to look for any OPM once you search for it.
