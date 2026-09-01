@@ -12,9 +12,9 @@
 ## Methods
 | Method | Description |
 |---|---|---|
-|Search|Search for the artist|
-|Create |Create a playlist based on the music genre|
-|Delete |Delete the playlist |
+| Search | Search for the artist |
+| Create | Create a playlist based on the music genre |
+| Delete | Delete the playlist |
 
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
