@@ -15,9 +15,10 @@ No major changes were needed from my original design.
 <img width="1080" height="1920" alt="OPM favorites! (1)" src="https://github.com/user-attachments/assets/a8d237aa-3ea0-409a-800b-8e0fe45dceaf" />
 ## Python Implementation
 [View Python Source](https://github.com/wayzelll/9berylliumcs3/blob/main/quarter1/classImplementation.py)
+
 ## Test Run
 <img width="1917" height="816" alt="Screenshot 2026-09-08 205427" src="https://github.com/user-attachments/assets/6532cea4-5f0f-427b-9294-b5f50130de11" />
-)
+
 ## Object Diagram
 ![Object Diagram](./images/objectDiagram.png)
 
