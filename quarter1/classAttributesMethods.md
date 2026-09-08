@@ -25,8 +25,8 @@ No major changes were needed from my original design.
 ### Why did you make your chosen attribute private?
 The release date and the number of listeners to the artist or genre are not relevant
 ### Which method changes the state of your object?
-
+The Delete() method, because it doesn't just change it---it deletes the value in the class.
 ### How did your two objects demonstrate that instances are independent?
-
+The attributes have their own data type and visibility, which makes them unique and independent.
 ### What is the difference between your class diagram and your object diagram?
-The class diagram shows the overall structure, while the object focuseses on its own.
+The class diagram shows the overall structure, while the object diagram focuses on its own.
