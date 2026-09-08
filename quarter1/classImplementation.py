@@ -1,6 +1,5 @@
-def opm()
-class OPM:
-  #Original Pop Music
+def opm():
+
   def __init__(username, genre, artist, date, listeners):
     username.attribute1 = genre
     username.attribute2 = artist
@@ -19,7 +18,11 @@ class OPM:
     playlist_ = genre_, artist_
     playlist_ = str(input("Enter your playlist's name"))
     print(playlist_)
-__init__()
+  
+opm(__init__, searchGenre, searchArtist, createPlaylist)
+    
+    
+  
     
     
   
