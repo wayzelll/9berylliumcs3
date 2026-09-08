@@ -8,7 +8,7 @@ No major changes were needed from my original design.
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
 | Genre | string | Public | Users may or need to search the music genre they're looking for |
-| Artist | string | Public | Users may or need to search the music artist they're looking for
+| Artist | string | Public | Users may or need to search for the music artist they're looking for
 | Date | integer | Private | The date of debut of the artist is not relevant and does not need to be shown to users |
 | Listeners | integer | Private | The number of listeners of the artist is not relevant and does not need to be shown to users |
 ## Updated UML Class Diagram
@@ -23,7 +23,10 @@ No major changes were needed from my original design.
 
 ## Analysis
 ### Why did you make your chosen attribute private?
-The date released and the number of listeners to the artist or genre is not relevant
+The release date and the number of listeners to the artist or genre are not relevant
 ### Which method changes the state of your object?
+
 ### How did your two objects demonstrate that instances are independent?
+
 ### What is the difference between your class diagram and your object diagram?
+The class diagram shows the overall structure, while the object focuseses on its own.
