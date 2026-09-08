@@ -12,9 +12,9 @@ No major changes were needed from my original design.
 | Date | integer | Private | The date of debut of the artist is not relevant and does not need to be shown to users |
 | Listeners | integer | Private | The number of listeners of the artist is not relevant and does not need to be shown to users |
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](<img width="1080" height="1920" alt="OPM favorites! (1)" src="https://github.com/user-attachments/assets/a8d237aa-3ea0-409a-800b-8e0fe45dceaf" />)
 ## Python Implementation
-[View Python Source](classImplementation.py)
+[View Python Source](quarter1/classImplementation.py)
 ## Test Run
 ![Test Run](images/classTestRun.png)
 ## Object Diagram
