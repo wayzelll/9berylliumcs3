@@ -15,7 +15,7 @@ Explanation: Many artists or bands hold concerts in the Philippines every year; 
  1: Many
 Explanation: A concert availability tracker is a whole system; therefore, many functions or objects can happen in it.
 ## UML Class Relationship Diagram
-[Class Relationship Diagram](/><img width="1366" height="768" alt="Class Relationship Diagram" src="https://github.com" />)
+<img width="1366" height="768" alt="Class Relationship Diagram" src="https://github.com" />
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
