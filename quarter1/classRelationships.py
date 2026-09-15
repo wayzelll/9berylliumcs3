@@ -6,16 +6,18 @@ class SpoTickets:
         self.__login_date = login_date
 
     def search(self):
-        print(f"Searching tickets for event: {self.event} featuring {self.artist}...")
+      searhArtist_= str(input("Which artist are we looking for today? " ) )
+      return 
 
     def display_info(self):
-        print(f"Event: {self.event} | Artist: {self.artist}")
+      event_= str(input("Enter the event or concert name: " ))
+      print(f"Event: {self.event} | Artist: {self.artist}" )
 
     def display_date(self):
-        print(f"Performance Date: {self.date}")
+      print(f"Performance Date: {self.date}")
 
     def __display_lg_date(self):
-        print(f"Log-in Date: {self.__login_date}")
+      print(f"Log-in Date: {self.__login_date}")
 
 
 if __name__ == "__main__":
