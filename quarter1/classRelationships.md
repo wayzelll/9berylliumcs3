@@ -24,7 +24,7 @@ Explanation: A concert availability tracker is a whole system; therefore, many f
 
 
 ## Python Implementation
-[View Python Source](quarter1/classRelationships.py)
+[View Python Source](classRelationships.py)
 
 ## Test Run
 ![Relationship Test Run](images/relationshipTestRun.png)
