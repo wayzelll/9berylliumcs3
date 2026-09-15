@@ -36,6 +36,7 @@ Many artists or bands hold concerts in the Philippines every year; people can lo
 ### What multiplicity did you choose and why?
 A concert availability tracker is a whole system; therefore, many functions or objects can happen in it.
 ### How did you implement the relationship in Python?
-
+I related the two classes. I worked with the second class by using the code on the 1st as basis. 
 ### Why did you store an object reference instead of copying its data?
+The data in the 1st class can be used in the 2nd class so I just stored the 2nd inside the 1st.
 ### If your relationship uses many, why is a list appropriate?
