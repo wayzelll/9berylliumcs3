@@ -5,7 +5,7 @@ class OPM:
         self.artist = artist
         self._date = date
         self._listeners = listeners
-        self.playlists = []  # Added initialization for playlists list
+        self.playlists = [] 
 
     def search_genre(self):
         genre_ = input("Type your OPM genre: ")
@@ -20,7 +20,7 @@ class OPM:
     def create_playlist(self, genre, artist):
         playlist_name = input("Enter your playlist's name: ")
         full_title = f"{playlist_name} ({genre} - {artist} songs)"
-        self.playlists.append(full_title)  # Appends created playlist to the list
+        self.playlists.append(full_title)  
         print(f"Playlist '{full_title}' created!")
 
     def delete_playlist(self):
@@ -37,15 +37,13 @@ class OPM:
             "\nEnter the name or number of the playlist to delete: "
         )
 
-        # Check if user entered a number index
         if name_to_delete.isdigit():
             index = int(name_to_delete) - 1
             if 0 <= index < len(self.playlists):
                 removed = self.playlists.pop(index)
                 print(f"Deleted playlist: '{removed}'")
                 return
-
-        # Check if user entered the exact playlist title/string
+                
         for playlist in self.playlists:
             if name_to_delete.lower() in playlist.lower():
                 self.playlists.remove(playlist)
@@ -55,7 +53,6 @@ class OPM:
         print("Playlist not found.")
 
 
-# Example execution
 user = OPM("Alternative Rock", "Eraserheads", "1990s", 10000000)
 selected_genre = user.search_genre()
 selected_artist = user.search_artist()
