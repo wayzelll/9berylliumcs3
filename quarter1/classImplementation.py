@@ -29,7 +29,6 @@ class OPM:
             return
 
         print("\nYour Playlists:")
-        # Fixed reference from self.playlists to match self context
         for idx, playlist in enumerate(self.playlists, 1):
             print(f"{idx}. {playlist}")
 
