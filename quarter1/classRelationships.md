@@ -15,9 +15,9 @@ Relationship: OPM HAS Concert Availability
 
 Explanation: Many artists or bands hold concerts in the Philippines every year; people can look up who will be performing and check if tickets are available.
 ## Multiplicity
- 1: Many
+ 1: 1
  
-Explanation: A concert availability tracker is a whole system; therefore, many functions or objects can happen in it.
+Explanation: An artist can accommodate at least 1 concert or event.
 
 ## UML Class Relationship Diagram
 <img width="1366" height="768" alt="imagesclassRelationshipDiagram" src="https://github.com/user-attachments/assets/a648ce78-15f7-47fc-859a-e060d3276212" />
@@ -34,9 +34,19 @@ Explanation: A concert availability tracker is a whole system; therefore, many f
 ### What is the association between your two classes?
 Many artists or bands hold concerts in the Philippines every year; people can look up who will be performing and check if tickets are available.
 ### What multiplicity did you choose and why?
-A concert availability tracker is a whole system; therefore, many functions or objects can happen in it.
+An artist can accommodate at least 1 concert or event.
 ### How did you implement the relationship in Python?
-I related the two classes. I worked with the second class by using the code on the 1st as basis. 
+I related the two classes. I built the second class using the first class as a basis. 
 ### Why did you store an object reference instead of copying its data?
-The data in the 1st class can be used in the 2nd class so I just stored the 2nd inside the 1st.
+The data in the 1st class can be used in the 2nd class, so I just stored the 2nd inside the 1st.
 ### If your relationship uses many, why is a list appropriate?
+
+## References
+Google searches: 
+1. how to insert a class inside a class in oop act. both must be working
+<img width="1035" height="939" alt="image" src="https://github.com/user-attachments/assets/be9bca7a-268b-4464-a721-53da9ea38819" />
+2. what does return do in python
+<img width="1016" height="599" alt="image" src="https://github.com/user-attachments/assets/879aff03-dc94-4bbf-ad87-a91a24e0d79b" />
+
+
+
