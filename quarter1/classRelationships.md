@@ -1,6 +1,7 @@
 # Class Relationships: Association and Multiplicity
 ## Previous Work
 [Part I - Classes and Objects](./quarter1/classObjectUML.md)
+
 [Part II - Class Attributes and Methods](./quarter1/classAttributesMethods.md)
 ## Existing Class
 Class: OPM: Original Pinoy Music
@@ -27,7 +28,10 @@ Explanation: An artist can accommodate at least 1 concert or event.
 [View Python Source](classRelationships.py)
 
 ## Test Run
-![Relationship Test Run](images/relationshipTestRun.png)
+Before relationship: <img width="1917" height="912" alt="Screenshot 2026-09-16 201136" src="https://github.com/user-attachments/assets/f04b61a1-4e6c-413d-8a1a-0334d44ec4ec" />
+After Relationship: <img width="1917" height="912" alt="Screenshot 2026-09-16 201326" src="https://github.com/user-attachments/assets/6dc0c2d7-b816-4f2e-9a18-1acf0f8b10dd" />
+
+
 ## Object Relationship Diagram
 ![Object Relationship Diagram](images/objectRelationshipDiagram.png)
 ## Analysis
