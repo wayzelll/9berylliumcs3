@@ -7,3 +7,4 @@ Yzel Alexa Alegre
 * Activity 3: [OOP Concept](./quarter1/ila_oop.md)
 * Activity 4: [OOP Act](./quarter1/classObjectUML.md)
 * Activity 5: [OOP Act 2](./quarter1/classAttributesMethods.md)
+* Activity 6: [OOP Act 3] (./quarter1/classRelationships.md)
