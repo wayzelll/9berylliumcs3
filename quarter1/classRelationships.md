@@ -21,19 +21,19 @@ Explanation: Many artists or bands hold concerts in the Philippines every year; 
 Explanation: An artist can accommodate at most 1 concert or event at one time.
 
 ## UML Class Relationship Diagram
-[Class Relationship Diagram](<img width="1366" height="768" alt="imagesclassRelationshipDiagram" src="https://github.com/user-attachments/assets/a648ce78-15f7-47fc-859a-e060d3276212" />)
+<img width="1366" height="768" alt="imagesclassRelationshipDiagram" src="https://github.com/user-attachments/assets/a648ce78-15f7-47fc-859a-e060d3276212" />
 
 
 ## Python Implementation
 [View Python Source](classRelationships.py)
 
 ## Test Run
-[Before relationship:](<img width="1917" height="912" alt="Screenshot 2026-09-16 201136" src="https://github.com/user-attachments/assets/f04b61a1-4e6c-413d-8a1a-0334d44ec4ec" />)
-[After Relationship:](<img width="1917" height="912" alt="Screenshot 2026-09-16 201326" src="https://github.com/user-attachments/assets/6dc0c2d7-b816-4f2e-9a18-1acf0f8b10dd" />)
+Before: <img width="1917" height="912" alt="Screenshot 2026-09-16 201136" src="https://github.com/user-attachments/assets/f04b61a1-4e6c-413d-8a1a-0334d44ec4ec" />
+After: <img width="1917" height="912" alt="Screenshot 2026-09-16 201326" src="https://github.com/user-attachments/assets/6dc0c2d7-b816-4f2e-9a18-1acf0f8b10dd" />
 
 ## Object Relationship Diagram
-[Object Relationship Diagram](<img width="1366" height="768" alt="imagesobjectRelationshipDiagram" src="https://github.com/user-attachments/assets/8e162d28-48f3-431d-8a6e-e3f70e7366c0" />
-)
+<img width="1366" height="768" alt="imagesobjectRelationshipDiagram" src="https://github.com/user-attachments/assets/8e162d28-48f3-431d-8a6e-e3f70e7366c0" />
+
 ## Analysis
 ### What is the association between your two classes?
 Many artists or bands hold concerts in the Philippines every year; people can look up who will be performing and check if tickets are available.
@@ -47,9 +47,10 @@ The data in the 1st class can be used in the 2nd class, so I just stored the 2nd
 
 ## References
 Google searches: 
-[1. how to insert a class inside a class in oop act. both must be working](<img width="1035" height="939" alt="image" src="https://github.com/user-attachments/assets/be9bca7a-268b-4464-a721-53da9ea38819" />)
-[2. what does return do in python]
-(<img width="1016" height="599" alt="image" src="https://github.com/user-attachments/assets/879aff03-dc94-4bbf-ad87-a91a24e0d79b" />)
-[3. how do i do a 1:1 object diagram like this using the blue pic](<img width="956" height="752" alt="Screenshot 2026-09-16 203654" src="https://github.com/user-attachments/assets/2cf8fa4f-000c-4d18-a08f-2dae2581bc85" />)
+1. how to insert a class inside a class in oop act. both must be working
+<img width="1035" height="939" alt="image" src="https://github.com/user-attachments/assets/be9bca7a-268b-4464-a721-53da9ea38819" />)
+2. what does return do in python
+<img width="1016" height="599" alt="image" src="https://github.com/user-attachments/assets/879aff03-dc94-4bbf-ad87-a91a24e0d79b" />
+3. how do i do a 1:1 object diagram like this using the blue pic<img width="956" height="752" alt="Screenshot 2026-09-16 203654" src="https://github.com/user-attachments/assets/2cf8fa4f-000c-4d18-a08f-2dae2581bc85" />
 
 
