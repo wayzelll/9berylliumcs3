@@ -26,9 +26,10 @@ Explanation: An album shop will sell different kinds if OPM in its store.
 Relationship: Strong HAS-A Relationship
 Explanation: If Customers don't exist, an Album shop would just shut down
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](<img width="1080" height="1350" alt="advancedClassDiagram" src="https://github.com/user-attachments/assets/0c59ec7e-3f2b-4c7f-8157-2311ba220809" />
+)
 ## Python Implementation
-[Source Code](advancedRelationships.py)
+[Source Code](./quarter1/advancedRelationships.py)
 ## Test Run
 ![Test](images/advancedTestRun.png)
 ## Object Diagram
