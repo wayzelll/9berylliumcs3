@@ -1,6 +1,7 @@
 # Advanced Class Relationships
 ## Previous Activities
 [classAttrib](./quarter1/classAttributesMethods.md)
+
 [classRel](./quarter1/classRelationships.md)
 ## Existing System Description:
 1. What classes currently exist in your system?
@@ -23,7 +24,7 @@ Explanation: An album shop will sell different kinds if OPM in its store.
             |
           Album
 Relationship: Strong HAS-A Relationship
-Explanation: If Customers shop doesn't exist, an Album shop would just shut down
+Explanation: If Customers don't exist, an Album shop would just shut down
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
 ## Python Implementation
