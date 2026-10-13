@@ -9,3 +9,6 @@ Yzel Alexa Alegre
 * Activity 5: [OOP Act 2](./quarter1/classAttributesMethods.md)
 * Activity 6: [OOP Act 3](./quarter1/classRelationships.md)
 * Activity 7: [OOP Act 4](./quarter1/advancedRelationships.md)
+
+# Quarter 2:
+* Activity 1: [Encapsulation](./quarter1/sg8_encapsulation.py)
