@@ -9,34 +9,35 @@ class Publication: # creates class
         
 class Book(Publication): # creates class
 
-    def __init__(self, title, author,pageNo): # defines
+    def __init__(self, title, author,pageNo): # defines attributes
         self._title = title
         self._author = author
         self._pages = pageNo
         
     def getPages(self):
-        return self._pages
+        return self._pages # returns the value
 
-    def setPages(self, pageNo):
+    def setPages(self, pageNo):# defines attributes
         if pageNo < 0:
             print("Number of pages must be positive.")
         else:
             self._pages = pageNo
-    def display_info(self):
+    def display_info(self): # defines attributes
         print (f"Title: {self._title}")
         print (f"Author: {self._author}")
         print (f"Number of pages: {self._pages}")
 
-class Magazine(Publication):
+class Magazine(Publication): # creates class
 
-    def __init__(self, MItitle, MIauthor, issueNo):
-        self._title = MItitle
-        self._author = MIauthor
+    def __init__(self, title, author, issueNo): # defines attributes
+        self._title = title
+        self._author = author
         self._issues = issueNo
         
-    def get_issue_number (self):
-        return self._issues
-    def display_info(self):
+    def get_issue_number (self): # defines attributes
+        return self._issues # returns the value
+        
+    def display_info(self): # defines attributes
         print (f"Title: {self._title} ")
         print (f"Author: {self._author}")
         print (f"Issue number: {self._issues}")
