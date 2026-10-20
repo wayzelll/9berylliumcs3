@@ -11,4 +11,5 @@ Yzel Alexa Alegre
 * Activity 7: [OOP Act 4](./quarter1/advancedRelationships.md)
 
 # Quarter 2:
-* Activity 1: [Encapsulation](./quarter1/sg8_encapsulation.py)
+* Activity 1: [Encapsulation](./quarter2/sg8_encapsulation.py)
+* Activity 2: [Inheritance](./quarter2/sg9_Inheritance.py)
