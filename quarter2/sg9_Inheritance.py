@@ -1,15 +1,15 @@
-class Publication:
+class Publication: # creates class
 
-    def __init__(self, title, author, ):
-        self._title = title
+    def __init__(self, title, author, ): # defines attributes
+        self._title = title 
         self._author = author
-    def display_info(self):
+    def display_info(self): 
         print (f"Title: {self._title}")
         print (f"Author: {self._author}")
         
-class Book(Publication):
+class Book(Publication): # creates class
 
-    def __init__(self, title, author,pageNo):
+    def __init__(self, title, author,pageNo): # defines
         self._title = title
         self._author = author
         self._pages = pageNo
@@ -55,6 +55,11 @@ print("\nBook Information:")
 book1.setPages(-310)
 book1.display_info()
 print(book1.getPages())
+
+print("\nMagazine Information:")
+mag1.display_info()
+print(mag1.get_issue_number())
+
 
 print("\nMagazine Information:")
 mag1.display_info()
