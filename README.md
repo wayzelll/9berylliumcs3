@@ -14,5 +14,4 @@ Yzel Alexa Alegre
 * Activity 1: [Encapsulation](./quarter2/sg8_encapsulation.py)
 * Activity 2: [Inheritance](./quarter2/sg9_Inheritance.py)
 * Activity 3: [Method Overriding](./quarter2/sg10_overriding.py)
-* Activity 4: [Polymorphism](./quarter2/sg11_polymorphism_a10)
-  
+* Activity 4: [Polymorphism](./quarter2/sg11_polymorphism_a1.py)
